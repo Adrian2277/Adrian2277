@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm Adrian 👋</h1>
 </div>
-<img src="https://github.com/Adrian2277/Adrian2277/blob/main/1629917539160.jpg">
+<img src="https://i.imgur.com/bQe2uWJ.jpg">
 <Br>
 
 ## About Me! 😎
@@ -27,7 +27,7 @@
 <td width="50%">
 <h3 align="center">Data cleaning</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://colab.research.google.com/drive/1uBL0KNlo5h9q8HbTWbqBMbXw9PSwlm4S?usp=sharing" target="_blank"><img src="https://i.imgur.com/wL0JERL.png" width="400"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CODE-5b5b5b?style=for-the-badge&logo=googlecolab&logoColor=rgb">
