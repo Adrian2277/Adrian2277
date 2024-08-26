@@ -13,6 +13,13 @@
 
 <Br>
 
+## Get in Touch! 📬
+<Br>
+<p align="center">
+<a href="https://www.linkedin.com/in/adrian-aberastain-209461268/" target="blank"><img align="center" src="https://img.shields.io/badge/Adrian Aberastain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:adrian.j.aberastain@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/adrian.j.aberastain@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Adrian2277" target="blank"><img align="center" src="https://img.shields.io/badge/Adrian-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+<Br>
+
 ## Skills I have! 🤸‍♂
 <Br>
 
