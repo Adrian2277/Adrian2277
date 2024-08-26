@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hello, I'm Adrian Aberastain 👋</h1>
+<h1 align="center">Hello, I'm Adrian 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://github.com/Adrian2277/Adrian2277/blob/main/1629917539160.jpg">
 <Br>
 
 ## About Me! 😎
