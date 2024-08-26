@@ -6,13 +6,11 @@
 
 ## About Me! 😎
 
-- 🏫: I'm a grade 9, High School Student.
+- 🏫: I'm a chemical engineer with advanced knowledge of mathematics, statistics, and data science.
 - 🔭: I’m currently working on many small ML projects.
 - 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+- 💬: I'm passionate about technology and am constantly acquiring new knowledge. 📊📈🤖🧠
+
 <Br>
 
 ## Skills I have! 🤸‍♂
@@ -27,18 +25,15 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Data cleaning</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/CODE-5b5b5b?style=for-the-badge&logo=googlecolab&logoColor=rgb">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p align="justify">The raw material in any data science or machine learning project is precisely the data. Usually, once we collect this data, we realize that it does not have the ideal characteristics. For example, we may have incomplete records, duplicate data, or even outliers. Therefore, before we can use this data in our project, we need to carry out a cleaning process to correct these issues.</p>
 </div>
                                                                                       
 </td>
@@ -105,8 +100,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Adrian2277">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adrian2277&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adrian2277&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
