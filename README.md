@@ -29,7 +29,7 @@
 <div align="center">
 <a href="https://colab.research.google.com/drive/1uBL0KNlo5h9q8HbTWbqBMbXw9PSwlm4S?usp=sharing" target="_blank"><img src="https://i.imgur.com/wL0JERL.png" width="400"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://colab.research.google.com/drive/1uBL0KNlo5h9q8HbTWbqBMbXw9PSwlm4S?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/CODE-5b5b5b?style=for-the-badge&logo=googlecolab&logoColor=rgb">
 </a>
 </p>
