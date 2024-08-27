@@ -28,7 +28,7 @@
 |![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
 <Br>
 
-## Projects
+## Some of my Projects! 🎨
 <table>
 <tr>
 <td width="50%">
